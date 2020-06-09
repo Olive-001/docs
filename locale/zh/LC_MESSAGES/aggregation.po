@@ -20,7 +20,7 @@ msgstr "聚合"
 # 7a9d16b51fa34deeb2b4092cf8c41445
 #: ../source/aggregation.txt
 msgid "On this page"
-msgstr ""
+msgstr "本业内容"
 
 # 6a6cfed3600847abbccc5c78bf55c6f3
 #: ../source/aggregation.txt:13
